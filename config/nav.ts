@@ -1,5 +1,4 @@
 import {
-  Home,
   LayoutDashboard,
   Settings,
   Users,
